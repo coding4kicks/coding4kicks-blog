@@ -92,12 +92,9 @@ scrollLoading: true
 
 # Sidebar
 social_links:
-  twitter:
-  facebook:
-  google_plus:
-  github: https://github.com/ppoffice/hexo-theme-hueman
-  weibo:
-  rss:
+  twitter: https://twitter.com/coding4kicks
+  github: https://github.com/coding4kicks
+
 widgets:
 - recent_posts
 - category
