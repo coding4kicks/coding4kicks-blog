@@ -7,6 +7,7 @@ title: coding4kicks
 subtitle: Have opinion. Will travel.
 description: Coding, tech, politics, defense, whatever...
 author: Scott Young
+email: poof@coding4kicks.com
 language:
 timezone:
 
@@ -16,6 +17,9 @@ url: http://coding4kicks.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+
+# Disqus
+disqus_shortname: coding4kicks
 
 # Directory
 source_dir: source
