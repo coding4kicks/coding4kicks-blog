@@ -109,13 +109,17 @@ widgets:
 
 # Links
 links:
+  Sendify - "The web in your email": http://sendify.io/
+  Crowdabout (unmaintained): http://www.crowdabout.co/#/
+  Parallel Spider (unmaintained): http://www.parallelspider.com/#/
+  Old Website: http://coding4kicks-old.s3-website-us-east-1.amazonaws.com/#/
   Hexo: http://hexo.io
 
 # Don't Use Google APIs if you are in google-blocked areas
 use_google_apis: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-44221809-1
 favicon: /favicon.png
 fb_admins:
-fb_app_id:
+fb_app_id: 957250834319312
